@@ -4,7 +4,7 @@ List of ideas for the Open Source Project Team
 ## Potential Ideas
 --------------
 
-### Messenger Bot 
+### :black_square_button: Messenger Bot 
 Bot to find different ECE resources, connect with people   
 
 #### Features
@@ -17,7 +17,7 @@ Bot to find different ECE resources, connect with people  
 
 Node (?), Redis, MongoDB, etc.
    
-### First Pass
+### :black_square_button: First Pass
 WebApp to see previous quarter enrollment data
 
 #### Features
@@ -33,17 +33,17 @@ Front end - React (?), ajax, etc
 Back end - Python (?), sqlite/mongodb
 
 
-### ECE Jobs Board Analysis
+### :black_square_button: ECE Jobs Board Analysis
 Scrape jobs found at http://ece.ucsd.edu/jobs and find patterns.
 
-### Scan In
+### :black_square_button: Scan In
 Simplify the process of checking people into org events
 
-### Budget on Website
+### :black_square_button: Budget on Website
 Make it easier for students clubs to show their annual budget, as well as expenditures, reimbursements, transparency, etc.
 
-### Room Reservation Tracking
+### :black_square_button: Room Reservation Tracking
 Simplify how an org can book rooms from various places, and how to keep track of room confirmations/changes.
 
-### UCSD Site Generator
+### :black_square_button: UCSD Site Generator
 Simplify the process for building a static site for UCSD org's hosted on acsweb.ucsd.edu
