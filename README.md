@@ -47,3 +47,6 @@ Simplify how an org can book rooms from various places, and how to keep track of
 
 ### :black_square_button: UCSD Site Generator
 Simplify the process for building a static site for UCSD org's hosted on acsweb.ucsd.edu
+
+### :black_square_button: GitHub Constitution -> Online Viewing
+Move ECE USC's current constitution into a GitHub repository (for easier editing, propositions), and [create a way](https://developer.github.com/v3/repos/) to display this on the ECE USC Site
