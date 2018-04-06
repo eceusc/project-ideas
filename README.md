@@ -17,10 +17,6 @@ Messenger Bot to find different ECE resources, connect with people
 
 Node (?), Redis, MongoDB, etc.
 
-#### Features
-
-#### Stack
-
 
 ### :black_square_button: First Pass
 WebApp to see previous quarter enrollment data
